@@ -14,7 +14,7 @@ public class ST10472346_PROG6112w_2025_EXAM
 
     public static void main(String[] args) 
     {
-        /*//String [] quaters = {"QUARTER 1", "QUARTER 2","QUARTER 3"};
+        //String [] quaters = {"QUARTER 1", "QUARTER 2","QUARTER 3"};
         String [] years = {"Year 1", "Year 2"};
         
         int [][] sales = {
@@ -60,7 +60,7 @@ public class ST10472346_PROG6112w_2025_EXAM
         System.out.println("***********************************************");
         System.out.println("Maximum sales: " + highest);
         System.out.println("Minimum sales: " + lowest);
-        System.out.println("***********************************************"); */
+        System.out.println("***********************************************"); 
         
         
         ProductSalesApplication app = new ProductSalesApplication();
